@@ -9,7 +9,7 @@ DATABASE_URI = 'sqlite:///./dist/database.db'
 # DATABASE_URI = 'mysql://root:123456@localhost:3306/database'
 # DATABASE_URI = 'postgresext://postgres:123456@localhost:5432/database'
 
-OPRIGIN_ADDRESS = 'http://192.168.3.128:8080'
+OPRIGIN_ADDRESS = 'http://localhost:8080'
 
 
 RESP = {
